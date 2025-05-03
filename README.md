@@ -5,7 +5,7 @@ Projet réalisé avec **Python (Pandas, Matplotlib)** et **Google Looker Studio*
 
 ---
 
-## Objectifs
+## 🎯 Objectifs
 - Comprendre les comportements d’achat
 - Identifier les pics de vente par mois, jour, heure
 - Visualiser les top clients / produits
@@ -13,7 +13,7 @@ Projet réalisé avec **Python (Pandas, Matplotlib)** et **Google Looker Studio*
 
 ---
 
-## Aperçu du Dashboard
+## 📊 Aperçu du Dashboard
 
 | Page | Thème |
 |------|-------|
@@ -31,21 +31,31 @@ Projet réalisé avec **Python (Pandas, Matplotlib)** et **Google Looker Studio*
 
 ---
 
-## Données utilisées
-- Dataset : Online Retail (fichier `online_retail_cleaned.csv`)
-- Prétraitement avec Python (notebook inclus dans `/notebook`)
+## 📁 Données utilisées
+- **Fichier source** : `data/online_retail_cleaned.csv`
+- **Nettoyage & analyse** : dans le notebook `notebook/retail_analysis.ipynb`
 
 ---
 
-## Lien vers le Dashboard (Looker Studio)
-> [Voir le dashboard en ligne](https://lookerstudio.google.com/reporting/TON-LIEN)  
-*(Remplace par ton vrai lien Looker !)*
+## 🔗 Lien vers le Dashboard Looker Studio
+
+👉 [Accéder au dashboard en ligne](https://lookerstudio.google.com/reporting/586a6293-2e2c-4d5c-b5b6-36252b2831c2)
 
 ---
 
-## Auteur
-**TheDataIsFemale** – Projet réalisé dans le cadre d’un portfolio de Data Analyst  
-Retrouvez-moi sur [LinkedIn](https://www.linkedin.com/in/TONPROFIL)
+## 👩‍💻 Auteur
+
+**Marie-Angélique Pied**  
+*Data Analyst Junior & Dashboard Designer*  
+🔗 [Mon profil LinkedIn](https://www.linkedin.com/in/marieangeliquepied)
+
+---
+
+## 🛠️ Stack utilisée
+- Python (Pandas, Matplotlib, Jupyter Notebook)
+- Google Sheets
+- Looker Studio
+- Git & GitHub
 
 ---
 
