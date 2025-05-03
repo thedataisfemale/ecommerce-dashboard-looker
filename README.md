@@ -65,4 +65,5 @@ Projet réalisé avec **Python (Pandas, Matplotlib)** et **Google Looker Studio*
 - Git & GitHub
 
 ---
-
+## À propos
+> Ce propos a été réalisé dans un cadre d'entraînement à la visualisation de données et structuration de projets analytiques. Il a pour but de simuler une **livraison professionnelle** à un client à travers un **dashboard clair, dynamique et interactif**.
