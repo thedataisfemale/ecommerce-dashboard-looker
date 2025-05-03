@@ -48,6 +48,7 @@ Ce projet d’analyse e-commerce a permis de mettre en lumière plusieurs insigh
 - **Les produits les plus vendus sont souvent des objets déco à bas prix**, suggérant une stratégie de volume plus que de marge.
 
 Cette visualisation dynamique avec Google Looker Studio m’a permis de répondre à des questions précises sur les comportements d’achat, la saisonnalité et la segmentation client.  
+
 Le projet démontre l’importance de **croiser les axes temps, produits, clients et géographie** pour une vue 360° du business.
 
 ---
