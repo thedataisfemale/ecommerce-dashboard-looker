@@ -45,7 +45,7 @@ Projet réalisé avec **Python (Pandas, Matplotlib)** et **Google Looker Studio*
 
 ## 👩‍💻 Auteur
 
-**Marie-Angélique Pied**  
+**The Data Is Female**  
 *Data Analyst Junior & Dashboard Designer*  
 🔗 [Mon profil LinkedIn](https://www.linkedin.com/in/marieangeliquepied)
 
