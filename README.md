@@ -24,9 +24,16 @@ Projet réalisé avec **Python (Pandas, Matplotlib)** et **Google Looker Studio*
 
 **Captures d’écran :**
 
+### Page 1 - Ventes Globales
 ![Dashboard Page 1](screenshots/dashboard_page1.png)  
+
+### Page 2 - Comportements Clients
 ![Dashboard Page 2](screenshots/dashboard_page2.png)  
+
+### Page 3 - Analyse Temporelle
 ![Dashboard Page 3](screenshots/dashboard_page3.png)  
+
+### Page 4 - Analyse Géographique
 ![Dashboard Page 4](screenshots/dashboard_page4.png)
 
 ---
